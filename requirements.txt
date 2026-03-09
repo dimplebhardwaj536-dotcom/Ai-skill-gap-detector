@@ -3,4 +3,4 @@
 "scikit-learn" 
 "spacy" 
 "PyPDF2" 
-"PyMuPDF" 
+"pymupdf" 
